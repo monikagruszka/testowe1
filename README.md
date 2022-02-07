@@ -1,2 +1,2 @@
 # testowe1
-Testowe repozytorium prywatne
+Testowe repozytorium publiczne test 123
